@@ -1,0 +1,4 @@
+{
+ "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.2.0.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Celular como terminal pela rede local: consulta de peças, caixa, fotos e contas pelo boleto ou Pix\", \"Atualização automática assinada, com teste e volta automática\", \"Proprietária redefine a senha da equipe\"], \"publicado_em\": \"2026-10-31T10:50:49\", \"sha256\": \"a4860b2a5952a53dad1300790e6a2c03d58b80c465c020b1c0a16477c5a9446c\", \"tamanho\": 317608, \"versao\": \"1.2.0\"}",
+ "assinatura": "wYHjm7w848HhpmBGDfWiQwr2mtoqkEM7abUVr2Wi0Nz7PeEJ6OTJATxx84RM5Snw3XYdhu1hgQC4KXzYt07XAg=="
+}
