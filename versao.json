@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.3.1.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Preços iguais aos do site: depois dos 6 meses grátis, licença de 3 meses (R$ 29,97), 6 meses (R$ 54,90) ou 12 meses (R$ 100,00), paga de uma vez no Pix, sem cobrança automática.\", \"Na tela Licença e plano, o botão de cada licença abre o WhatsApp com a mensagem pronta.\"], \"publicado_em\": \"2026-10-31T21:04:46\", \"sha256\": \"778b0a018382e77029a127a583132fbed618cf126795c3271191010c1d734673\", \"tamanho\": 327817, \"versao\": \"1.3.1\"}",
- "assinatura": "BSJAKB64IyVvoYMIzzQBiB9klKWaX4heqMz+UWTysHhY0Qu9/nXF531MTj4KKf9KMFLL9TlmTJgYc5lLvlc2Aw=="
+ "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.4.0.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Vale-presente: venda no caixa com valor, para quem é e mensagem; usado em uma ou mais compras até acabar o saldo. Só conta como venda quando é usado.\", \"Validade de cada vale (troca e presente) escolhida na hora: uma data, atalhos ou sem prazo; a proprietária pode prorrogar depois.\"], \"publicado_em\": \"2026-10-31T21:28:47\", \"sha256\": \"9a48519242e1387d82fdb131aa9d07e16475d1a801c1539d2260b03a82fb6228\", \"tamanho\": 332352, \"versao\": \"1.4.0\"}",
+ "assinatura": "1NJy+2E5LahgVf5mUlIq4isV9xyC59XJH0yAs7LayewBFT8obKUqZZ2Y/Oiy+wwOV2hCX8Xo+MFC572HYsgiAA=="
 }
