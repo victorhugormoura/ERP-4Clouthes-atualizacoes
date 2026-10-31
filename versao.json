@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.2.2.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Celular: 'Liberar no firewall do Windows' remove bloqueios antigos do Windows e libera a rede local\", \"Novo diagnóstico da conexão do celular em 'Usar no celular'\"], \"publicado_em\": \"2026-10-31T15:44:20\", \"sha256\": \"8dd40600b7bb6f2cb2de6a7cd025a6194b38c2f7ab3dc6eb150e281e4bd4b22e\", \"tamanho\": 321711, \"versao\": \"1.2.2\"}",
- "assinatura": "hPB5VrPPJz6voBx3dW8liyA99+wcoMpj5SE2OxRgiV2d4KHXib2Mu7KUSxOxriiEAg6ujKtBwKoN5sE9/qZYAA=="
+ "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.3.0.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Nova tela Licença e plano, em Administração: mostra o período grátis, os planos e onde ativar a chave.\", \"6 meses grátis com todas as funções; depois R$ 9,90 por mês ou R$ 100,00 por ano.\", \"O sistema avisa 15 dias antes de vencer; seus dados nunca são apagados.\"], \"publicado_em\": \"2026-10-31T17:33:02\", \"sha256\": \"8ebdbfeaeed009adbdd92a90c1efaf31589de24fb962843ed329c5c14f6a7eec\", \"tamanho\": 327177, \"versao\": \"1.3.0\"}",
+ "assinatura": "Dc8qAZZoECwj+1XnLTWeJLYHJ8cjVyJyoq3Zfkk4ZvYAR3wi9njWFqfdNIiMaLqULvTS5Q+YcOelNReP94XmBg=="
 }
