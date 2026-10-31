@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.2.1.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Celular: conexão estável no Chrome (corrige 'Não é possível acessar esse site' / ERR_TOO_MANY_RETRIES)\", \"Ler o QR Code de novo num celular já conectado não cria outro pedido\", \"Botão para testar o endereço do celular no computador\"], \"publicado_em\": \"2026-10-31T14:51:59\", \"sha256\": \"c4fbca8de6c6ff1c3226ce64ba2c691733945b7973f093c0600a815901867649\", \"tamanho\": 318676, \"versao\": \"1.2.1\"}",
- "assinatura": "0fuH3ThqiTeBiO5rN89F7BOc19z/1lExBSJHSmdwcDiZ9nDpKKsCLhBH7vihF2SVTpaIIsISTwG761uA4DhJAQ=="
+ "dados": "{\"app\": \"LojaERP\", \"arquivo\": \"pacotes/LojaERP-1.2.2.zip\", \"minimo\": \"1.2.0\", \"notas\": [\"Celular: 'Liberar no firewall do Windows' remove bloqueios antigos do Windows e libera a rede local\", \"Novo diagnóstico da conexão do celular em 'Usar no celular'\"], \"publicado_em\": \"2026-10-31T15:44:20\", \"sha256\": \"8dd40600b7bb6f2cb2de6a7cd025a6194b38c2f7ab3dc6eb150e281e4bd4b22e\", \"tamanho\": 321711, \"versao\": \"1.2.2\"}",
+ "assinatura": "hPB5VrPPJz6voBx3dW8liyA99+wcoMpj5SE2OxRgiV2d4KHXib2Mu7KUSxOxriiEAg6ujKtBwKoN5sE9/qZYAA=="
 }
